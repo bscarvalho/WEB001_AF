@@ -1,0 +1,4 @@
+git clone https://github.com/bscarvalho/WEB001_AF.git
+git add *
+git commit -m "primeira tentativa prova final"
+git push origin master
